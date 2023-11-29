@@ -41,7 +41,6 @@ nav > ul > li > a {
 }
 .header {
     background-color: #1f2937;
-    /* border: 2px solid orange; */
     padding: 0 20px 20px 20px;
 }
 h1 {
@@ -53,23 +52,17 @@ nav > ul {
     display: flex;
     gap: 16px;
 }
-.header {
-    /* border: 2px solid red; */
-}
 
 .header-content {
     display: flex;
     gap: 20px;
     width: 100%;
     max-width: 900px;
-    /* border: 2px solid orange; */
     margin: 0 auto;
     align-items: flex-start;
     color: white;
 }
-.header-content > * {
-    /* border: 2px solid pink; */
-}
+
 .header-content > .tex, .header-content > img {
     flex: 1 1 700px;
 }
