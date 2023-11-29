@@ -166,3 +166,13 @@ h3 {
 }
 
 /*Footer Section*/
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: .9rem;
+    padding: 20px;
+}
